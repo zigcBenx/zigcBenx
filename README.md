@@ -63,15 +63,9 @@ Tools: Tmux · Docker · Git · Ubuntu
 
 
 
-[![OpenPledge](https://benxlabs.com/images/refined_iconography.svg)](https://openpledge.io)
-
-
 
 [![OpenPledge](https://benxlabs.com/images/motion_shine.svg)](https://openpledge.io)
 
-
-
-[![OpenPledge](https://benxlabs.com/images/layout_variants.svg)](https://openpledge.io)
 
 
 
