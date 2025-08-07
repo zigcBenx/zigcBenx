@@ -1,25 +1,40 @@
-## Hi there 👋
-[![OpenPledge Beta Tester](https://img.shields.io/badge/OpenPledge-Beta%20Tester-blueviolet?style=for-the-badge&logo=github&logoColor=white)](https://openpledge.io/beta-testers)
+<h1 align="center">Hey, I'm Žiga 👋</h1>
+<p align="center">
+  <em>Full-stack dev · Terminal dweller · Open source believer · Startup builder</em>
+</p>
 
-[![OpenPledge](https://benxlabs.com/images/openpledge_badge.svg)](https://openpledge.io)
+---
 
-[![OpenPledge](https://benxlabs.com/images/openpledge_badge_contributor.svg)](https://openpledge.io)
+### 🧠 About Me
 
-[![OpenPledge](https://benxlabs.com/images/openpledge_badge_glass.svg)](https://openpledge.io)
+- 👨‍💻 7+ years coding things from scratch (sometimes on purpose)
+- 🛰 Built software for food delivery at <b>Ehrana</b> and instruments for NASA at <b>Dewesoft</b>
+- 💡 Founder of <a href="https://openpledge.io" target="_blank"><b>OpenPledge</b></a> — where open source contributors get paid and pledgers get ROI
+- 🐧 Passionate about Linux, open source, and working 90% in the terminal
+- 🎤 Laravel conference speaker (debuggers > logs, prove me wrong)
+- ⚙️ I like my code like I like my coffee — strong, clean, and without unnecessary sugar
 
-[![OpenPledge](https://benxlabs.com/images/openpledge_badge_dark.svg)](https://openpledge.io)
+---
 
-[![OpenPledge](https://benxlabs.com/images/openpledge_badge1.svg)](https://openpledge.io)
+### 💼 Current Projects
 
-[![OpenPledge](https://benxlabs.com/images/refined_iconography.svg)](https://openpledge.io)
+#### 🚀 [OpenPledge](https://openpledge.io)
+> The platform that lets companies pledge to open source and track their impact.  
+> Think of it as a reward system for contributors and a satisfaction engine for sponsors.
 
-[![OpenPledge](https://benxlabs.com/images/motion_shine.svg)](https://openpledge.io)
+#### 🧠 HR Automation App
+> A complete system to handle contracts, salaries, and reward logic, with an emphasis on clarity, automation, and "no more Excel hell."
 
-[![OpenPledge](https://benxlabs.com/images/layout_variants.svg)](https://openpledge.io)
+---
 
-[![OpenPledge](https://benxlabs.com/images/visual_hierarchy.svg)](https://openpledge.io)
+### 🛠️ Tech I Use
 
-[![OpenPledge](https://benxlabs.com/images/premium_minimalist.svg)](https://openpledge.io)
+```bash
+Languages: PHP · JS/TS · Bash · C++ (when I hate myself)
+Frameworks: Laravel · Inertia.js · Vue · Alpine · Tailwind
+Tools: Tmux · Neovim (LazyVim setup) · Docker · Git · Stripe API · Google APIs
+
+
 <!--
 **zigcBenx/zigcBenx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
