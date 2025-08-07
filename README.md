@@ -22,8 +22,8 @@
 > The platform that lets companies pledge to open source and track their impact.  
 > Think of it as a reward system for contributors and a satisfaction engine for sponsors.
 
-#### 🧠 Online Ordering app for local Burger chain
-> A complete system to handle ordering, delivery and payment of online orders.
+#### 🧠 [Online Ordering app](https://order.hoodburger.si)
+> A complete system to handle ordering, delivery and payment for local Burger chain.
 
 ---
 
