@@ -12,7 +12,7 @@
 - 💡 Founder of <a href="https://openpledge.io" target="_blank"><b>OpenPledge</b></a> — where open source contributors get paid and pledgers get ROI
 - 🐧 Passionate about Linux, open source, and working 90% in the terminal
 - 🎤 Laravel conference speaker (debuggers > logs, prove me wrong)
-- ⚙️ I like my code like I like my coffee — strong, clean, and without unnecessary sugar
+- ⚙️ I believe sometimes removing code is more valuable than writing it
 
 ---
 
