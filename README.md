@@ -15,7 +15,7 @@
 
 [![OpenPledge](https://benxlabs.com/images/motion_shine.svg)](https://openpledge.io)
 
-[![OpenPledge](https://benxlabs.com/images/layout_variants.scg)](https://openpledge.io)
+[![OpenPledge](https://benxlabs.com/images/layout_variants.svg)](https://openpledge.io)
 
 [![OpenPledge](https://benxlabs.com/images/visual_hierarchy.svg)](https://openpledge.io)
 
