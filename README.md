@@ -22,8 +22,8 @@
 > The platform that lets companies pledge to open source and track their impact.  
 > Think of it as a reward system for contributors and a satisfaction engine for sponsors.
 
-#### 🧠 HR Automation App
-> A complete system to handle contracts, salaries, and reward logic, with an emphasis on clarity, automation, and "no more Excel hell."
+#### 🧠 Online Ordering app for local Burger chain
+> A complete system to handle ordering, delivery and payment of online orders.
 
 ---
 
