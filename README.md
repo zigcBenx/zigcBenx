@@ -10,6 +10,16 @@
 [![OpenPledge](https://benxlabs.com/images/openpledge_badge_dark.svg)](https://openpledge.io)
 
 [![OpenPledge](https://benxlabs.com/images/openpledge_badge1.svg)](https://openpledge.io)
+
+[![OpenPledge](https://benxlabs.com/images/refined_iconography.svg)](https://openpledge.io)
+
+[![OpenPledge](https://benxlabs.com/images/motion_shine.svg)](https://openpledge.io)
+
+[![OpenPledge](https://benxlabs.com/images/layout_variants.scg)](https://openpledge.io)
+
+[![OpenPledge](https://benxlabs.com/images/visual_hierarchy.svg)](https://openpledge.io)
+
+[![OpenPledge](https://benxlabs.com/images/premium_minimalist.svg)](https://openpledge.io)
 <!--
 **zigcBenx/zigcBenx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
