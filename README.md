@@ -8,7 +8,7 @@
 ### 🧠 About Me
 
 - 👨‍💻 7+ years coding things from scratch (sometimes on purpose)
-- 🛰 Built software for food delivery at <b>Ehrana</b> and instruments for NASA at <b>Dewesoft</b>
+- 🛰 Built software for food delivery at <b>Ehrana</b> (Acquired by Glovo) and business solutions at <b>Dewesoft</b>
 - 💡 Founder of <a href="https://openpledge.io" target="_blank"><b>OpenPledge</b></a> — where open source contributors get paid and pledgers get ROI
 - 🐧 Passionate about Linux, open source, and working 90% in the terminal
 - 🎤 Laravel conference speaker (debuggers > logs, prove me wrong)
