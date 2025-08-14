@@ -73,5 +73,5 @@ Tools: Tmux · Docker · Git · Ubuntu
 
 
 
-[![OpenPledge](https://benxlabs.com/images/premium_minimalist.svg)](https://openpledge.io)
+[![OpenPledge]([https://benxlabs.com/images/premium_minimalist.svg](https://raw.githubusercontent.com/zigcBenx/weather-app/2add2efa93bfd5abbc28ee72997d56de2331bb11/openpledge_app_style_badges.svg))](https://openpledge.io)
 
