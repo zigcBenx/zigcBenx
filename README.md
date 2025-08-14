@@ -43,35 +43,7 @@ Tools: Tmux · Docker · Git · Ubuntu
 
 
 
-[![OpenPledge](https://benxlabs.com/images/openpledge_badge.svg)](https://openpledge.io)
+[![OpenPledge](https://raw.githubusercontent.com/zigcBenx/weather-app/2add2efa93bfd5abbc28ee72997d56de2331bb11/openpledge_badge_dark.svg)](https://openpledge.io)
 
 
-
-[![OpenPledge](https://benxlabs.com/images/openpledge_badge_contributor.svg)](https://openpledge.io)
-
-
-
-[![OpenPledge](https://benxlabs.com/images/openpledge_badge_glass.svg)](https://openpledge.io)
-
-
-
-[![OpenPledge](https://benxlabs.com/images/openpledge_badge_dark.svg)](https://openpledge.io)
-
-
-
-[![OpenPledge](https://benxlabs.com/images/openpledge_badge1.svg)](https://openpledge.io)
-
-
-
-
-[![OpenPledge](https://benxlabs.com/images/motion_shine.svg)](https://openpledge.io)
-
-
-
-
-[![OpenPledge](https://benxlabs.com/images/visual_hierarchy.svg)](https://openpledge.io)
-
-
-
-[![OpenPledge]([https://benxlabs.com/images/premium_minimalist.svg](https://raw.githubusercontent.com/zigcBenx/weather-app/2add2efa93bfd5abbc28ee72997d56de2331bb11/openpledge_app_style_badges.svg))](https://openpledge.io)
 
