@@ -51,7 +51,7 @@ Tools: Tmux · Docker · Git · Ubuntu
 [![OpenPledge](https://raw.githubusercontent.com/zigcBenx/weather-app/72906b4dd7315e1bdf532291572da2b12dada6f4/motion_shine(1)(1).svg)](https://openpledge.io)
 
 [![OpenPledge](https://raw.githubusercontent.com/zigcBenx/weather-app/6a9f6e2090226e24e3017142a24d55fb607c42e8/ablblbl(1).svg)](https://openpledge.io)
-[![OpenPledge](https://raw.githubusercontent.com/zigcBenx/weather-app/6a9f6e2090226e24e3017142a24d55fb607c42e8/ablblbl(2).svg)](https://openpledge.io)
+[![OpenPledge](https://raw.githubusercontent.com/zigcBenx/weather-app/afad06da9e95c32639c72616230b43ac8977eab1/ablblbl(2).svg)](https://openpledge.io)
 
 
 
