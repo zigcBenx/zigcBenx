@@ -26,10 +26,10 @@
 #### 🏃 [TrackWrapped](https://trackwrapped.com)
 > App for Track & Field athletes, where they log, analyze and improve their results.
 
-#### 🧠 [Online Ordering app](https://order.hoodburger.si)
+#### 🍔 [Online Ordering app](https://order.hoodburger.si)
 > A complete system to handle ordering, delivery and payment for local Burger chain.
 
-#### 🧠 [Storm Search (VS code extension)](https://github.com/zigcBenx/storm-search)
+#### 🔍 [Storm Search (VS code extension)](https://github.com/zigcBenx/storm-search)
 > PhpStorm-inspired global search for VS Code with split-panel preview and syntax highlighting
 
 ---
