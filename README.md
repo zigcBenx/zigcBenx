@@ -38,7 +38,7 @@
 
 ```bash
 Languages: PHP · JS/TS · Bash · Python
-Frameworks: Laravel · Inertia.js · Vue · Tailwind
+Frameworks: Laravel · Inertia.js · Vue · React · Next.js · Tailwind
 Tools: Tmux · Docker · Git · Ubuntu
 ```
 
