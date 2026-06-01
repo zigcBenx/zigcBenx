@@ -10,8 +10,9 @@
 - 👨‍💻 8+ years coding things from scratch (sometimes on purpose)
 - 🛰 Built software for food delivery at <b>Ehrana</b> (Acquired by Glovo) and business solutions at <b>Dewesoft</b>
 - 💡 Founder of <a href="https://openpledge.io" target="_blank"><b>OpenPledge</b></a> — where open source contributors get paid and pledgers get ROI
+- 🏃 Founder of <a href="https://trackwrapped.com" target="_blank"><b>TrackWrapped</b></a> — where Track & Field athletes analyze their workouts for optimal performance.
 - 🐧 Passionate about Linux, open source, and working 90% in the terminal
-- 🎤 Laravel conference speaker (debuggers > logs, prove me wrong)
+- 🎤 Laravel conference speaker (debuggers > logs, prove me wrong), (Setting up optimal AI dev setup)
 - ⚙️ I believe sometimes removing code is more valuable than writing it
 
 ---
@@ -22,10 +23,13 @@
 > The platform that lets companies pledge to open source and track their impact.  
 > Think of it as a reward system for contributors and a satisfaction engine for sponsors.
 
-#### 🧠 [Online Ordering app](https://order.hoodburger.si)
+> ### 🏃 [TrackWrapped](https://trackwrapped.com)
+> App for Track & Field athletes, where they log, analyze and improve their results.
+
+> #### 🧠 [Online Ordering app](https://order.hoodburger.si)
 > A complete system to handle ordering, delivery and payment for local Burger chain.
 
-#### 🧠 [Storm Search (VS code extension)](https://github.com/zigcBenx/storm-search)
+>#### 🧠 [Storm Search (VS code extension)](https://github.com/zigcBenx/storm-search)
 > PhpStorm-inspired global search for VS Code with split-panel preview and syntax highlighting
 
 ---
